@@ -467,4 +467,3 @@ def freeq(uid,pwx,tl):
         pass
 #---------------------[END MENU]---------------------#
 if __name__ == '__main__':
-    KST()
